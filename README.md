@@ -1,0 +1,2 @@
+# JteRushEnBot
+JteRushEnBot, discord bot.
